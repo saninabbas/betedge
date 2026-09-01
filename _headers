@@ -1,0 +1,30 @@
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/llms-full.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/styles.css
+  Cache-Control: public, max-age=0, must-revalidate
+/script.js
+  Cache-Control: public, max-age=0, must-revalidate
+/assets/data.js
+  Cache-Control: public, max-age=0, must-revalidate
+/assets/blog-data.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/assetlinks.json
+  Content-Type: application/json; charset=utf-8
+  Access-Control-Allow-Origin: *
+
+/.well-known/assetlinks.json
+  Content-Type: application/json; charset=utf-8
+  Access-Control-Allow-Origin: *
+

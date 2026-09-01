@@ -1,0 +1,31 @@
+# BetEdge — Betting App Comparison & Expert Reviews
+
+> Independent betting-site and online casino comparison platform. BetEdge provides expert reviews, ratings, bonus comparisons, payout speeds, and payment guides for top online betting brands including BC.Game, 1xBet, 1win, Casino777, Melbet, BetWinner, Linebet, and T7777. 18+ only. Please gamble responsibly.
+
+## Core Pages
+- [Home](https://betedge.site/): Overview of top-ranked betting sites, welcome bonuses, and comparison table.
+- [Compare Reviews](https://betedge.site/reviews.html): Side-by-side comparison of all tested betting apps and sportsbooks.
+- [All Games & Brands](https://betedge.site/games.html): Complete directory of betting brands and casino operators.
+- [Exclusive Bonuses](https://betedge.site/bonuses.html): Updated list of welcome bonuses, free bets, and promo codes.
+- [Guides](https://betedge.site/guides.html): Comprehensive betting guides, strategy tutorials, and payment comparisons.
+- [Blog & News](https://betedge.site/blog.html): Betting tips, bonus alerts, and industry news.
+
+## Brand Reviews
+- [BC.Game Pakistan Review](https://betedge.site/review-bcgame.html): Rating 9.8/10, 180% up to $20,000, BC.Game is a crypto-first casino and sportsbook with one of the largest welcome packages in the market and near-instant payouts.
+- [1xBet Review](https://betedge.site/review-1xbet.html): Rating 9.2/10, 100% up to $130, 1xBet offers one of the widest sports coverages online with live betting, cash out and thousands of daily markets.
+- [1win Review](https://betedge.site/review-1win.html): Rating 8.9/10, 500% up to $1,000, 1win packs a huge multi-deposit welcome bonus, a slick app and a strong casino + aviator selection.
+- [Casino777 Review](https://betedge.site/review-casino777.html): Rating 8.9/10, Welcome offer, Casino777 is a clean, slots-focused casino with a friendly welcome offer and simple, fast gameplay.
+- [Melbet Review](https://betedge.site/review-melbet.html): Rating 8.8/10, 100% up to $100, Melbet balances a full sportsbook with a large casino, plenty of local payments and reliable cash out.
+- [BetWinner Review](https://betedge.site/review-betwinner.html): Rating 8.7/10, 100% up to $100, BetWinner is known for competitive odds, deep market coverage and a well-built mobile experience.
+- [Linebet Review](https://betedge.site/review-linebet.html): Rating 8.6/10, 100% up to $100, Linebet is a crypto-friendly sportsbook and casino with fast payouts and a lightweight mobile app.
+- [T7777 Review](https://betedge.site/review-t7777.html): Rating 8.9/10, Welcome Bonus, T7777 is a fast-growing casino and sportsbook with a generous welcome bonus, mobile-first design and quick cash out.
+
+## Popular Guides & Analysis
+- [Fastest Withdrawal Betting Apps 2026](https://betedge.site/blog-fastest-withdrawal-betting-apps-2026.html): Guide to instant crypto and e-wallet payouts.
+- [Top Casino Strategies 2026](https://betedge.site/blog-top-casino-strategies-2026.html): Bankroll management and smart wagering tactics.
+
+## Trust & Compliance
+- [About BetEdge](https://betedge.site/about.html): Our mission, review methodology, and testing process.
+- [Contact Us](https://betedge.site/contact.html): Get in touch with the editorial team.
+- [Responsible Gambling](https://betedge.site/responsible-gambling.html): 18+ policy, limit tools, and gambling addiction support resources.
+- [Privacy Policy](https://betedge.site/privacy.html): How BetEdge handles and protects user privacy.
